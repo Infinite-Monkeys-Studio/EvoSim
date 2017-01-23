@@ -1,5 +1,5 @@
 class Animal {
-  int x;
+  int x; //TODO make these work on some kind of world co-ords
   int y;
   
   Animal(int x, int y) {
