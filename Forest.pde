@@ -1,5 +1,5 @@
 class Forest {
-  int scale = 60;
+  int scale = 60; //size of each of the tiles on the screen in pxs.  This is the number used in ALL convertion from screen to world
   int xDim = 20; //number of tiles in x direction
   int yDim = 12; //number of tiles in y direction
   
